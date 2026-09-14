@@ -65,7 +65,7 @@ public class CourseController {
 
     @GetMapping("/welcome")
     public String greetings() {
-        return "Hello to AWS COde PIpiline , AWS CICD Example is working fine !";
+        return "Hello Dhandapani !";
     }
 
 
